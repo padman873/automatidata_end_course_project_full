@@ -41,7 +41,7 @@ This repository is organized into the following folders, corresponding to the co
     * Executive Summary (https://github.com/padman873/automatidata_end_course_project_full/blob/main/Course-6-Nuts%26Bolts--Executive-summaries.pptx)
     * **Description:** This module introduced core machine learning algorithms and model building. The lab activities centered around.
 
-Within each course folder, you will find the specific deliverables mentioned above. The "Lab Materials" folder will contain code notebooks (`.ipynb` files), datasets, and any supporting files used for the hands-on exercises. The "PACE Strategy Document" outlines your planning and approach, and the "Executive Summary" provides a concise overview of the key findings and outcomes for that course.
+Within each course folder, you will find the specific deliverables mentioned above. The "Lab Materials" folder will contain code notebooks (`.ipynb` files), datasets, and any supporting files used for the hands-on exercises. The "PACE Strategy Document" outlines the planning and approach, and the "Executive Summary" provides a concise overview of the key findings and outcomes for that course.
 
 ## Getting Started
 
